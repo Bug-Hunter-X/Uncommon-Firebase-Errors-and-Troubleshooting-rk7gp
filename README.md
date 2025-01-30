@@ -1,0 +1,1 @@
+This repository demonstrates some uncommon Firebase errors and provides solutions.  The `firebaseBug.js` file contains code that simulates these scenarios, while `firebaseBugSolution.js` offers fixes and best practices for preventing them. These examples focus on asynchronous operation issues and incorrect initialization patterns often overlooked during development.
